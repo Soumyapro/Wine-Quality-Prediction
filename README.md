@@ -25,4 +25,6 @@ The goal is to explore the Wine Quality dataset in order to extract the main fea
 - Quality prediction
 
 Cheers! 🍷
+
+
 ![47-476558_red-wine-glass-cheers-hd-png-download](https://user-images.githubusercontent.com/84585023/185805022-bbe299ba-3038-443a-a334-5d8bfc69566d.png)
